@@ -1,0 +1,11 @@
+I’m excited to share my CTE123 Python Mini Project: **Temperature Monitor and Alarm Checker**.
+
+This Python program accepts five machine-temperature readings and calculates the highest, lowest, and average temperatures. It also checks the readings against a safe temperature limit entered by the user and displays an alarm warning if any reading exceeds that limit.
+
+For my original extra feature, I added an **Average Temperature Status** check. This helps the user see whether the overall average is within the selected safe limit, in addition to identifying individual unsafe readings.
+
+Through this project, I practised Python functions, loops, lists, conditional statements, numeric input, and input validation. It has helped me understand how programming can support basic machine monitoring.
+
+GitHub repository: [Paste your repository link here]
+
+#Python #TemperatureMonitoring #Mechatronics #Engineering #YabaTech #CTE123
